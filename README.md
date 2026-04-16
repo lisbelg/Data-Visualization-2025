@@ -1,13 +1,21 @@
-# Streamlit Dashboard Boilerplate
+# Data Visualization 2025
 
-This is a beginner Streamlit dashboard starter project.
+This repository contains starter projects for learning Python data visualization tools.
 
-## Features
-- Loads CSV data with Pandas
-- Displays raw data
-- Filters by product
-- Shows a simple sales chart
+## Included Projects
 
-## Run locally
-```bash
-streamlit run app.py
+### Matplotlib Boilerplate
+Basic chart plotting starter project using matplotlib.
+
+### Pandas Boilerplate
+CSV reading and dataframe starter project using pandas.
+
+### Streamlit Dashboard Boilerplate
+Interactive dashboard app using Streamlit, pandas, and matplotlib.
+
+## Purpose
+This repo is for practicing:
+- Pandas
+- Matplotlib
+- Streamlit dashboards
+- Python data analysis workflows
