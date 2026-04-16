@@ -4,13 +4,13 @@ This repository contains starter projects for learning Python data visualization
 
 ## Included Projects
 
-### Matplotlib Boilerplate
+### - Matplotlib Boilerplate
 Basic chart plotting starter project using matplotlib.
 
-### Pandas Boilerplate
+### - Pandas Boilerplate
 CSV reading and dataframe starter project using pandas.
 
-### Streamlit Dashboard Boilerplate
+### - Streamlit Dashboard Boilerplate
 Interactive dashboard app using Streamlit, pandas, and matplotlib.
 
 ## Purpose
